@@ -3,7 +3,7 @@
     "minimum_chrome_version": "21",
     "name": "EZProxy Redirect Foxified",
     "description": "Quickly reload pages through your library's EZProxy.",
-    "version": "1.19",
+    "version": "1.19.1",
     "background": {
         "scripts": ["background.js"],
         "persistent": false
@@ -32,7 +32,7 @@
   "applications": {
     "gecko": {
         "id": "ezproxyredirectfoxified@foo.bar",
-        "strict_min_version": "52.0"
+        "strict_min_version": "57.0"
     }
   }
 }
