@@ -24,6 +24,9 @@ would change to:
 Change Log
 ----------
 
+Version 1.19.1 - May 8, 2021:
+* Updated strict_min_version to 57.0 in manifest
+
 Version 1.19 - May 8, 2021:
 * Added dark theme compatible icon
 
