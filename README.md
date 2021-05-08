@@ -24,6 +24,9 @@ would change to:
 Change Log
 ----------
 
+Version 1.19 - May 8, 2021:
+* Added dark theme compatible icon
+
 Version 1.18 - January 26, 2018:
 * Manifest changes only
 
@@ -31,7 +34,6 @@ Version 1.17 - October 1, 2017:
 * Ported Chrome version to Firefox
 * Adopted sane versioning system (16 --> 1.17)
 * Updated icons/buttons to increase readability
-
 
 Version 16 - August 10, 2017:
 * Update to yesterdays release, now uses the "activeTab" permission, instead of
